@@ -1,0 +1,23 @@
+
+.white {
+  background: #FFFFFF;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+body {
+  background: white;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: hidden !important;
+}
+
+div{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+
+canvas {
+  background: #FFFFFF;
+}
